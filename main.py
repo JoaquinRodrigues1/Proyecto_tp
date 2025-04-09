@@ -9,7 +9,6 @@ lista_proveedores = generar_proveedor(cantidad_proveedores)
 clientes = []
 
 #menu
-while True:
     elegir_opcion = int(input("""\n
 1. Cargar Cliente
 2. Ver información segun ID de producto
